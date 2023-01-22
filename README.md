@@ -2,10 +2,7 @@
 
 Introduction
 
-- describe what the current project is
-  I will build a basic recie websaite using just HTML.
+I will build a basic HTML website that displays . It will include a main index page which will have links to 3 recipes listed in an unordered list.
+
 - what skills you will have demonstrated once you have completed it
-
-Self-reflection
-
-- review what i have learned
+  - lists, headings, images, links
